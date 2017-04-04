@@ -16,4 +16,4 @@ v0.11 - Version: "I have no idea what im doing"
 Original version
 
 # Issues
-If you have any issues with the mod please open an issue on this repository or post a comment on the forum thread, preferably to the repository. Issues submitted to this repository will be looked at first.
+If you have any issues with the mod please, open an issue on this repository or post a comment on the forum thread, preferably to the repository. Issues submitted to this repository will be looked at first.
