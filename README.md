@@ -1,4 +1,4 @@
-# KerbalGalacticExpansion
+# Kerbal Galactic Expansion
 This mod adds new star systems to Kerbal Space Program and eventually new galaxies.
 
 # Prerequisites: 
