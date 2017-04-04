@@ -5,14 +5,14 @@ This mod adds new star systems to Kerbal Space Program and eventually new galaxi
 Most recent version of Kopernicus. 
 
 # Changelog
-v0.2 - Version: "I guess this is an actual project im doing now"
+#### v0.2 - Version: "I guess this is an actual project I'm doing now"
 -Added small asteroid like planet in the asteroid belt named Kre
 -Re-did the Trappist-1 star to have a corona
 -Smoothed out terrain
 -Re-aligned some of the planets to be tidally locked
 -Switched Trappist-1b and c
 
-v0.11 - Version: "I have no idea what im doing"
+#### v0.11 - Version: "I have no idea what I'm doing"
 Original version
 
 # Issues
