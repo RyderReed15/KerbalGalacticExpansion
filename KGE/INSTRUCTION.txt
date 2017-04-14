@@ -1,0 +1,4 @@
+1. Download the latest version of Kopernicus
+2. Remove any previous versions of Kopernicus and Kerbal Galactic Expansion
+3. Move the KerbalGalacticExpansion folder into your GameData folder
+4. Start KSP
